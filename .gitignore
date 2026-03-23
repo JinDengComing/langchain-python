@@ -1,0 +1,13 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# AI Log Plugin 推荐忽略项
+.specstory/
+.ailog/
+
+.env
+Lib/
+Scripts/
+spec
+
+
+pyvenv.cfg
